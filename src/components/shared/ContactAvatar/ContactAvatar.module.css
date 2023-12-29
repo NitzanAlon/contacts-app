@@ -1,0 +1,19 @@
+.contact_avatar {
+  border-radius: 50%;
+  border: 2px solid transparent;
+}
+.contact_avatar--small {
+  width: 36px;
+  height: 36px;
+}
+.contact_avatar--large {
+  width: 128px;
+  height: 128px;
+}
+
+.contact_avatar--male {
+  border-color: #d14b4b;
+}
+.contact_avatar--female {
+  border-color: #acdda0;
+}

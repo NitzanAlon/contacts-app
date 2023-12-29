@@ -1,0 +1,18 @@
+.wrapper {
+  border: 1px solid #e9e9f5;
+  border-right: none;
+  border-left: none;
+  padding: 1rem;
+}
+.wrapper:hover {
+  background-color: #fcfcfc;
+}
+.name {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+.email {
+  font-size: 1.2rem;
+  color: #75757c;
+  text-decoration: none;
+}
